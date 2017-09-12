@@ -137,8 +137,3 @@ def save_excel(count_dict, file_name):
 
 ![数据可视化展示](http://upload-images.jianshu.io/upload_images/2815894-b47a78419a9c2d6c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-源代码已上传到GitHub：https://github.com/fuyunzhishang/python-spider
-python爬虫，爬取拉钩网职位信息，并统计所需技能，画出统计图。
-如python的：
-
-![](/images/2016-10-17_22-04-30.png "统计图")
